@@ -9,5 +9,6 @@ The data are divided into the following directories:
 * MISC: Other variables calculated with and without urban pixels at country scale based on the default ESA CCI land cover product by year.
 * FUT: Future projections of urban area by country, year, and SSP.
 * REG: LST data with and without urban pixels for select regions from different LST dproducts and based on different land cover data by year. 
+* CLIM: LST data with and without urban pixels for climate zones based on the default ESA CCI land cover product by year.
 
 In all cases, data for the European and Asian portions of Russia are separately calculated and adjusted to get continental-scale estimates.
