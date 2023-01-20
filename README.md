@@ -1,5 +1,5 @@
 # Urban_signal
-Data for urban signal on land surface temperature (LST) and air temperature (AT) at country scales from different sources
+Data for urban signal on land surface temperature (LST) and air temperature (AT) at country, climate zone, and select regional scales from different sources.
 
 The data are divided into the following directories:
 
